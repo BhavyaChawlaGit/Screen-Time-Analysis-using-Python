@@ -30,7 +30,7 @@ fig.show()
 #1. Correlation between the number of notifications and the screen time of the apps
 # creates a scatter plot using the data DataFrame
 # The x-axis represents the 'Notifications', the y-axis represents 'Usage'
-fig = px.scatter(data, x='Notifications', y='Usage', size="Notifications", trendline="ols", title='Correlation between the number of notifications and the screen time of the apps')
+fig = px.scatter(data, x='Notifications', y='Usage',color="App", size="Notifications", trendline="ols", title='Correlation between the number of notifications and the screen time of the apps')
 fig.show()
 
 #There’s a linear relationship between the number of notifications and the amount of usage. It means that more notifications result in more use of smartphones.
@@ -38,7 +38,7 @@ fig.show()
 #2. Correlation between the number of times the apps were opened and the screen time of the apps   
 # creates a scatter plot using the data DataFrame
 # The x-axis represents the 'Times opened', the y-axis represents 'Usage'
-fig = px.scatter(data, x='Times opened', y='Usage', size="Times opened", trendline="ols", title='Correlation between the number of times the apps were opened and the screen time of the apps')
+fig = px.scatter(data, x='Times opened', y='Usage', color="App", size="Times opened", trendline="ols", title='Correlation between the number of times the apps were opened and the screen time of the apps')
 fig.show()
 
 #3. Daily Usage Analysis of the Apps

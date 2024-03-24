@@ -16,13 +16,13 @@ You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/ana
 ---
 
 - The plot shows the trend of app usage over time.
-- 
+
 ![newplot](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/ee3f9204-9e49-45bb-9a4e-41c70fc1e67c)
 
 ---
 
 - The plot displays the trend of notifications received from apps over time.
-- 
+
 ![newplot copy](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/c805d1ac-178b-4d7d-a557-e10ed00040d8)
 
 ---
@@ -51,7 +51,8 @@ You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/ana
 
 
 ---
-- Analysis of notifications received by the apps daily, displayed in a line chart.  
+- Analysis of notifications received by the apps daily, displayed in a line chart.
+
 ![newplot copy 6](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/90de61e2-23d2-4dbb-8fdc-ce1087f89d65)
 
 

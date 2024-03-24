@@ -1,9 +1,10 @@
 # Screen Time Analysis
-This README provides guidance on analyzing screen time using Python.
+Analyze the screen time of the user to find relationships between the usage of the smartphone and factors like notifications and apps used by the user.
 
-## Screen Time Analysis Overview
+## Overview
 
 Screen Time Analysis involves analyzing and generating reports on which applications are used by the user and for how much time. Devices offer effective tools for creating screen time reports.  
+
 
 For screen time analysis, an ideal dataset is available containing:  
 

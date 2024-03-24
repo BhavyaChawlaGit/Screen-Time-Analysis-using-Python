@@ -12,7 +12,17 @@ For screen time analysis, an ideal dataset is available containing:
 - Number of Notifications from Applications
 - Number of times apps opened
 
-You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/analyzing-screen-time).
+You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/analyzing-screen-time).  
+---
 
 - The plot shows the trend of app usage over time.
+
 ---
+
+- The plot displays the trend of notifications received from apps over time.
+---
+
+- The plot illustrates the frequency of app openings over time.
+
+---
+- The scatter plot depicts the relationship between the number of notifications and the overall usage of smartphones.

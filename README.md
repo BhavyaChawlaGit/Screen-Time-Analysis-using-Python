@@ -20,7 +20,7 @@ You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/ana
 
 ![newplot](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/ee3f9204-9e49-45bb-9a4e-41c70fc1e67c)
 
-**comparing the daily usage of Instagram and WhatsApp over time shows varying levels of screen time on different days. It seems like the user's interaction with these apps fluctuates significantly, with certain days showing high usage.**
+**Comparing the daily usage of Instagram and WhatsApp over time shows varying levels of screen time on different days. It seems like the user's interaction with these apps fluctuates significantly, with certain days showing high usage.**
 
 ---
 
@@ -28,15 +28,14 @@ You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/ana
 
 ![newplot copy](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/c805d1ac-178b-4d7d-a557-e10ed00040d8)
 
-**tracking the number of notifications sent by Instagram and WhatsApp indicates that the amount of notifications does not remain constant. Some days have a high number of notifications, which might correlate with increased usage on those days.**
+**Tracking the number of notifications sent by Instagram and WhatsApp indicates that the amount of notifications does not remain constant. Some days have a high number of notifications, which might correlate with increased usage on those days.**
 ---
 
 - The plot illustrates the frequency of app openings over time.  
 
 ![newplot copy 2](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/f847f09d-e9fb-40bf-ae99-2f9656714df9)
 
-**chart illustrates the frequency with which the apps were accessed each day. It appears that the user opens these apps numerous times throughout the day, with some days showing more app openings, potentially indicating higher engagement.
-**
+**Chart illustrates the frequency with which the apps were accessed each day. It appears that the user opens these apps numerous times throughout the day, with some days showing more app openings, potentially indicating higher engagement.**
 ---
 - The scatter plot depicts the relationship between the number of notifications and the overall usage of applications.  
 

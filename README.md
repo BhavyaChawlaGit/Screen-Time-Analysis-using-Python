@@ -64,6 +64,8 @@ The line chart depicting daily usage indicates that there are peaks and troughs 
 
 Chart for daily notifications shows a pattern that might be linked to the user's screen time. Days with higher notifications seem to align with increased usage, hinting at potential user responsiveness to incoming alerts.---
 
+---
+## Summary
 ### Through this project, I've uncovered insights into digital behavior, specifically the strong influence of app notifications on screen time. The patterns show that more notifications tend to lead to more frequent app usage, highlighting the significant impact of app engagement on daily screen time.
 
 

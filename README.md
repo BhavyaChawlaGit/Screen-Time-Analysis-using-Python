@@ -49,7 +49,6 @@ You can download the dataset [here](https://www.kaggle.com/datasets/ruchi798/ana
 ![newplot copy 4](https://github.com/BhavyaChawlaGit/Screen-Time-Analysis-using-Python/assets/112718303/c3d1abba-6c22-43a8-b078-1059a0500ca6)
 
 **Shows a positive correlation between the number of times the apps were opened and the screen time. This implies that more frequent app usage leads to higher overall screen time.**
-
 ---
 
 - Daily usage analysis of the apps, presented in a line chart format.  
